@@ -18,7 +18,7 @@
 
 # 
 
-# \## Project Structure
+
 
 # The repository initially contains the following files:
 
